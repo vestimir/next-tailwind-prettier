@@ -1,0 +1,5 @@
+build
+scripts
+**/.git
+**/node_modules
+.next
